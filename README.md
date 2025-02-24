@@ -4,7 +4,7 @@
 </div>
 <br clear="both">
 
-<img src="https://github.com/ahmadmiftahululum/amiftahululum/blob/main/WhatsApp%20GIF.gif" alt="Animation GIF">
+<img src="Banner.gif" alt="Banner">
 
 <div align="center">
 <h2>🚀 Languages and Tools I Use</h2>
