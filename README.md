@@ -5,7 +5,7 @@
 
 <img src="Banner.gif" alt="Banner">
 
-<div align="center">
+<!-- <div align="center">
 <h2>🚀 Languages and Tools I Use</h2>
 </div>
 
@@ -59,4 +59,4 @@
   </picture>
 </div>
 
-###
+### -->
