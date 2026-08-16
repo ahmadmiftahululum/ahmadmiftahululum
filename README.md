@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi 👋, I'm Ahmad Miftahul Ulum</h1>
-  <p>A passionate Frontend Developer and UI/UX Designer </p>
 </div>
 <br clear="both">
 
